@@ -19,5 +19,8 @@
 
   Paste following command in Termux
 
-  '''bash
-  
+  git clone https://github.com/Ayush5647/Ubuntu-On-Termux.git
+
+  cd Ubuntu-On-Termux/
+
+  bash ubuntu.sh
